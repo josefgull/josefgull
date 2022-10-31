@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![plot]([./a_doc/sloth.gif](https://media.giphy.com/media/1sv8vtuj5vF2eV7K8W/giphy.gif)) 
+![plot](https://media.giphy.com/media/1sv8vtuj5vF2eV7K8W/giphy.gif)
 
 
 <!---
