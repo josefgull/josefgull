@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @josefgull
 - 👀 I’m interested in physics, simulating stuff with python
 - 🌱 I’m currently learning Monte Carlo
 - 📫 How to reach me www.linkedin.com/in/josef-gull-911680122
